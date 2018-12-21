@@ -1,18 +1,19 @@
 {
   "main": {
     "name":"Kai-Wei Wang",
-    "occupation":"(Your Occupation Here)",
-    "description":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year Computer Science student at Georgia Tech, I love everything about this field from intense sleep deprived hackathons to developing impactful projects. Interested? Then keep reading on!",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "occupation":"Software Engineer Intern",
+    "description":"Software Engineer | World Traveller | Boba Connoisseur",
+    "bio":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year Computer Science student at Georgia Tech. I love everything about this field, from intense sleep deprived hackathons to developing impactful projects.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "konradwang@gatech.edu",
     "headshot": "images/headshot.png",
-    "phone": "555-555-5555",
+    "profile": "images/profile.jpg",
+    "phone": "314-915-3780",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"708 Spring Street, 1821",
+      "city":"Atlanta,",
+      "state":"GA",
+      "zip": "63017"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -24,7 +25,7 @@
       },
       {
         "name":"instagram",
-        "url":"https://github.com/Konrad0707",
+        "url":"https://www.instagram.com/thekonrad_wang/",
         "className":"fa fa-instagram"
       },
       {
@@ -38,16 +39,19 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Georgia Institute of Technology",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"May 2020",
+        "description":"Threads: People and Intelligence",
+        "specialization": "Human Computer Interactions, Graphics, UI/UX, Data Visualization, Machine Learning"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Taipei European School ",
+        "degree":"International Baccalaureate diploma",
+        "graduated":"June 2016",
+        "description":"Delegate in Model United Nations, Instructor at Coding club, Varsity Basketball",
+        "specialization": ""
+
       }
     ],
     "work":[

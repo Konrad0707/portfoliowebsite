@@ -37,7 +37,8 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">Hi there!</h1>
             <img className = "headshot" src = {headshot} alt = "Konrad Wang Headshot"/>
-            <h3>{description}</h3>
+            <h2>{description}</h2>
+            <h3> Interested? Then keep reading on!</h3>
             <hr />
             <ul className="social">
                {networks}
