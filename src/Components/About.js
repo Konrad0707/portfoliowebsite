@@ -15,9 +15,10 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      var book = this.props.data.book;
     }
     const size = {
-      width: '50%',
+      width: '40%',
       height: 80,
     };
 
@@ -31,22 +32,27 @@ class About extends Component {
             <h2>About Me</h2>
 
             <p>{bio}</p>
-            <h4> On Repeat </h4>
-            <Spotify
-              uri="spotify:track:6T8cJz5lAqGer9GUHGyelE"
-              view={'list'}
-              theme={'black'}
-              size={'large'}
-            />
+            <div className="split">
+              <div className="left">
+                <h4> On Repeat </h4>
+                <Spotify
+                  uri="spotify:track:6T8cJz5lAqGer9GUHGyelE"
+                  view={'list'}
+                  theme={'black'}
+                  size={'large'}
+                />
+              </div>
+              <div className="right">
+                <h4> Currently Reading </h4>
+                <img className="book"  src={book} alt="Book" />
+              </div>
+            </div>
 
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
 					   </p>

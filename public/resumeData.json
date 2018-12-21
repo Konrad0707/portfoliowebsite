@@ -8,11 +8,12 @@
     "email": "konradwang@gatech.edu",
     "headshot": "images/headshot.png",
     "profile": "images/profile.jpg",
+    "book": "images/rebooting.png",
     "phone": "314-915-3780",
     "address":{
       "street":"708 Spring Street, 1821",
-      "city":"Atlanta,",
-      "state":"GA",
+      "city":"Atlanta",
+      "state":"GA,",
       "zip": "63017"
     },
     "website": "http://www.timbakerdev.com",
@@ -169,14 +170,18 @@
     ]
   },
   "testimonials":{
-    "testimonials":[
+    "interest":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "name":"Fraternity Brother",
+        "image":"Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "name":"Diamond Black Skier",
+        "image":"Steve Wozniak... impersonator"
+      },
+      {
+        "name":"Pickup Basketball Player",
+        "image":"Steve Wozniak... impersonator"
       }
     ]
   }

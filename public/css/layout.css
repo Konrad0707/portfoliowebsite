@@ -221,16 +221,32 @@ ul#nav li.current a { color: #F06000; }
 
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   font-size: 18px;
+   color: #e0e2e5;
 }
+#about .split {
+  display:flex;
+  padding-right: 50px;
+  justify-content: space-between;
+}
+
+#about .book{
+  height:380px;
+}
+
 #about .profile-pic {
   position: relative;
   width: 100%;
 }
-#about .contact-details { width: 41.66667%; }
+#about .contact-details {
+  width: 41.66667%;
+  padding-top:30px;
+}
+
 #about .download {
    width: 58.33333%;
-   padding-top: 6px;
+   padding-top: 36px;
+   padding-left: 111px;
 }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
