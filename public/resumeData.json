@@ -2,10 +2,11 @@
   "main": {
     "name":"Kai-Wei Wang",
     "occupation":"(Your Occupation Here)",
-    "description":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year at Georgia Tech majoring in Computer Science, I love everything about this field from intense sleep deprived hackathons to developing semester long projects, I've learned and experienced so much throughout my time at Georgia Tech. ",
+    "description":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year Computer Science student at Georgia Tech, I love everything about this field from intense sleep deprived hackathons to developing impactful projects. Interested? Then keep reading on!",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
+    "headshot": "images/headshot.png",
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
@@ -17,39 +18,19 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/kwang0707/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://github.com/Konrad0707",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/Konrad0707",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
