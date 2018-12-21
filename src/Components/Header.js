@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import headshot from '../../public/images/headshot.png'
 
 class Header extends Component {
   render() {
@@ -10,7 +11,7 @@ class Header extends Component {
       var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-      })
+      })ß
     }
 
     return (
@@ -34,8 +35,9 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+            <h1 className="responsive-headline">Hi there!</h1>
+            <img src = {headshot} alt = {}/>
+            <h3>{description}</h3>
             <hr />
             <ul className="social">
                {networks}

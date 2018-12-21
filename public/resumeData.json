@@ -1,9 +1,8 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"Kai-Wei Wang",
     "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
+    "description":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year at Georgia Tech majoring in Computer Science, I love everything about this field from intense sleep deprived hackathons to developing semester long projects, I've learned and experienced so much throughout my time at Georgia Tech. ",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
