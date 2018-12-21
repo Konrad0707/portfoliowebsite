@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Spotify from 'react-spotify-player';
 
 class About extends Component {
   render() {
@@ -15,17 +16,29 @@ class About extends Component {
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
+    const size = {
+      width: '50%',
+      height: 80,
+    };
 
     return (
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Konrad Wang Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
             <p>{bio}</p>
+            <h4> On Repeat </h4>
+            <Spotify
+              uri="spotify:track:6T8cJz5lAqGer9GUHGyelE"
+              view={'list'}
+              theme={'black'}
+              size={'large'}
+            />
+
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>

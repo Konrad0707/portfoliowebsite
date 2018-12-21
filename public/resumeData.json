@@ -111,66 +111,60 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Python",
+        "level":"70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Java",
+        "level":"65%"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"40%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"40%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"40%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Unity",
+        "level":"60%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"C",
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"ZWaste",
+        "category":"A mobile app that enables people in need to receive donations of food, clothing, and other goods directly from our users.",
+        "image":"zwaste.png",
+        "url":"https://zwasteapp.wixsite.com/mysite"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Busybee",
+        "category":"A personal organization app for college students that provides a way to organize social, academic and personal obligations all in one place.",
+        "image":"busybee.png",
+        "url":"https://docs.google.com/presentation/d/1P8a8G7Vv_1Qz2_hl2meKrFtEOvYhFxky80R2o-VcowY/edit?usp=sharing"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Invisible Cities",
+        "category":"Create augmented reality monuments in your community that tell a story and reflect your life. Use blocks, spray paint, user textures, and more to tell your story!",
+        "image":"ael.jpg",
+        "url":"https://appadvice.com/app/invisible-cities/1369569108"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"IB Physics Website",
+        "category":"A website that allows students to study IB physics",
+        "image":"ibphysics.png",
+        "url":"https://ibphysics.org/"
       }
     ]
   },
