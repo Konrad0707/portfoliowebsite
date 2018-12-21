@@ -3,7 +3,7 @@
     "name":"Kai-Wei Wang",
     "occupation":"Software Engineer Intern",
     "description":"Software Engineer | World Traveller | Boba Connoisseur",
-    "bio":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year Computer Science student at Georgia Tech. I love everything about this field, from intense sleep deprived hackathons to developing impactful projects.",
+    "bio":"My Name is Kai-Wei Wang, but my friends call me Konrad. I'm a 3rd year Computer Science student at Georgia Tech and I love everything about this field, from intense sleep deprived hackathons to developing impactful projects.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "konradwang@gatech.edu",
     "headshot": "images/headshot.png",
@@ -56,16 +56,57 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Facebook",
+        "title":"Software Engineer Intern",
+        "years":"Summer 2019",
+        "team": "TBD",
+        "d1":"TBD...",
+        "d2":"",
+        "d3":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Blued international",
+        "title":"Software Development Intern",
+        "years":"May 2018 - August 2018",
+        "team": "Web development team: Location-based social search application",
+        "d1":"Developed modular front-end and back-end applications using HTML, CSS, ReactJS, AJAX, NodeJS and deployed working application for pride month in June 2018 with 40million DAU",
+        "d2":"Worked closely with members of the product development team to achieve the best user experience while writing modular and scalable code",
+        "d3":"Worked using Git and deployed with GitLab (CI/CD continuous integration); coordinated with Agile process"
+      },
+      {
+        "company":"The Home Depot",
+        "title":"Software Engineer Intern",
+        "years":"November 2017 - May 2018 ~ August 2018 - December 2018",
+        "team": "Artificial Intelligence & Exploratory Team: Visually Similar object detection tool",
+        "d1":"Built image classifiers with CNN using TensorFlow and categorized Home Depot’s product image database",
+        "d2":"Implemented machine learning algorithms such as KNN, SVM and pretrained neural networks with Keras VGG16 on ImageNet for image classifications",
+        "d3":"Improved object detection accuracy through implementing triplet loss on pretrained models for different product categories"
+      }
+    ],
+    "research":[
+      {
+        "name":"Georgia Tech Interactive Media Technology",
+        "title":"Research Assistant",
+        "years":"August 2018 - December 2018",
+        "team": "Ambient Alerting (Aware Home), Supervisor: Prof. Brian Jones",
+        "d1":"Explored applications of intelligent voice assistant with python and AWS lambda and Developed applications to deliver notifications of alerts, status, and setup with Android Studio and SQL",
+        "d2":"Deployed sensors around home with Arduino and recorded user activity for research"
+      },
+      {
+        "name":"Georgia Tech Augmented Environments Lab",
+        "title":"UI/UX developer",
+        "years":"August 2017 - December 2018",
+        "team": "Community AR design (Invisible Cities), Supervisor: Dr. Jay Bolter",
+        "d1":"Produced AR experience in which multiple users can place AR entities in physical space in real-time which are programmed through JavaScript, Unity and C#",
+        "d2":"Developed front-end design and performed UI/UX research"
+      },
+      {
+        "name":"Georgia Tech STIP institute",
+        "title":"Research Assistant",
+        "years":"October 2016 - August 2017",
+        "team": "STEM Research Communities & Knowledge Transfer, Supervisor: Dr. Jan Youtie & Dr. Alan Porter",
+        "d1":"Used longitudinal, cross-sectional, and comparative research designs through Vantage Point to generate analyses of large samples of research literature in ‘STEM-ED’ and ‘Cog-Sci’ research communities",
+        "d2":"Designed and implanted applications that scrape through Web of Science database with Python"
       }
     ],
     "skills":[

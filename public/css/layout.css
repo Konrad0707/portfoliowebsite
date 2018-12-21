@@ -269,6 +269,18 @@ ul#nav li.current a { color: #F06000; }
    font: 25px/30px 'opensans-bold', sans-serif;
 }
 
+#resume h6 {
+  margin-top: -15px;
+}
+
+#resume ul {
+  margin-left: 18px;
+}
+
+#resume li {
+  list-style: square;
+}
+
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
