@@ -5,7 +5,10 @@ class Testimonials extends Component {
 
     if(this.props.data){
       var interest = this.props.data.interest.map(function(interest){
-        return <div key={interest.name}><h1>{interest.name}</h1>
+        var image = interest.image;
+        return <div key={interest.name}>
+        <img src={image} alt={interest.name}/>
+
         </div>
       })
     }
@@ -18,7 +21,7 @@ class Testimonials extends Component {
 
             <div className="other">
                   <ul className="slides">
-                      {interest}
+                      <center>{interest}</center>
                   </ul>
                </div>
             </div>

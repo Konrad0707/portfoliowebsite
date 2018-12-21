@@ -714,9 +714,15 @@ call-to-action .button {
 }
 #testimonials h1 mark {
   background-color: #000;
-  font-size: 20px;
+  font-size: 30px;
   color: #fff;
 }
+
+#testimonials img {
+  height:300px;
+  position: relative;
+}
+
 #testimonials .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';

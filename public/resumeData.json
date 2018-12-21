@@ -173,15 +173,15 @@
     "interest":[
       {
         "name":"Fraternity Brother",
-        "image":"Kareem Abdul Jabbar"
+        "image":"images/xk.png"
       },
       {
         "name":"Diamond Black Skier",
-        "image":"Steve Wozniak... impersonator"
+        "image":"images/ski.png"
       },
       {
         "name":"Pickup Basketball Player",
-        "image":"Steve Wozniak... impersonator"
+        "image":"images/bball.png"
       }
     ]
   }
