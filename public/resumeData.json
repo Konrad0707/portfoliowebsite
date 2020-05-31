@@ -58,9 +58,9 @@
         "title":"Software Engineer Intern",
         "years":"Summer 2019",
         "team": "TBD",
-        "d1":"TBD...",
-        "d2":"",
-        "d3":""
+        "d1":"Developed an end to end automated pipeline for Auto refreshing search ranking ML models for Facebook Search Ranking data",
+        "d2":"Produced a front-end UI in ReactJs for ranking engineers and data scientists to onboard their training models for model auto-refresh and feature/score output analysis",
+        "d3":"Worked in a cross functional team environment and committed to weekly sprints"
       },
       {
         "company":"Blued international",
